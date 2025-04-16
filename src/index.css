@@ -1,0 +1,17 @@
+#root {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+}
+
+.nlux-conversationStarters-container {
+  overflow-y: auto;
+}
